@@ -9,3 +9,5 @@ There are 6 schematics in our project.
   - Battery Protection.SchDoc
 
 PCB file is renamed as PCB1.PcbDoc
+
+You can check photos of the PCB in the Project Outputs for EDR folder.
