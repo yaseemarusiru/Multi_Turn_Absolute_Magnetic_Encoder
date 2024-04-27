@@ -3,4 +3,4 @@ This repository contains the all the documents of the project in which we made a
 
 Project team members :
   - <a href="https://github.com/YasodaLAE" target="_blank">Yasoda Lasiru</a>
-  - Yaseema
+  - Yaseema Rusiru (myself)
