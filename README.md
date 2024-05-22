@@ -6,3 +6,5 @@ Project team members :
   - Yaseema Rusiru (myself)
     
 ![IMG_4897](https://github.com/yaseemarusiru/Multi_Turn_Absolute_Magnetic_Encoder/assets/112842373/cb0c95ed-e55a-4774-b895-fffd58313164)
+
+![IMG_4899](https://github.com/yaseemarusiru/Multi_Turn_Absolute_Magnetic_Encoder/assets/112842373/8dc8ed69-41c1-4ac8-a1da-ac51c2220d43)
